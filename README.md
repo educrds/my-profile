@@ -46,6 +46,6 @@
 
 ###
 
-![Snake animation](https://github.com/educrds/educrds/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/educrds/educrds/blob/output/snake.svg" alt="Snake animation" />
 
 ###
