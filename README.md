@@ -46,6 +46,6 @@
 
 ###
 
-![Snake animation](https://github.com/educrds/educrds/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/educrds/my-profile/blob/output/github-contribution-grid-snake.svg)
 
 ###
