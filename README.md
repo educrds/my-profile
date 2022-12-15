@@ -46,6 +46,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/educrds/educrds/blob/output/snake.svg" alt="Snake animation" />
-
 ###
