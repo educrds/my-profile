@@ -11,7 +11,7 @@
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=educrds" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=educrds&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="150" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=educrds" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&username=educrds" height="150" alt="languages graph"  />
 </div>
 
 ###
