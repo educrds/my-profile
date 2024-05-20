@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/educrds/my-profile/blob/output/github-contribution-grid-snake.svg)
-
-###
