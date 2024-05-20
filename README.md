@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Sou Eduardo...<br>E estou atualmente desenvolvendo minhas habilidade em projetos com React JS</h2>
+<h2 align="center">Olá 👋! Sou Eduardo...<br>E estou atualmente desenvolvendo minhas habilidade em projetos com Angular</h2>
 
 ###
 
